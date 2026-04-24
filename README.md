@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdelrhman Dameen</h1>
+<h1 align="center">Abdelrhman Dameen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+ML+Engineer;Building+Real-World+Data+Solutions;From+Raw+Data+to+Business+Impact;Sydney%2C+Australia" />
+  <b>Data Scientist | Machine Learning Engineer | Forecasting Specialist</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Production-Ready+ML+Systems;Specialising+in+Forecasting+%26+Demand+Prediction;Turning+Data+into+Business+Decisions;Sydney%2C+Australia" />
 </p>
 
 <p align="center">
@@ -24,17 +28,41 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I’m a **Data Scientist & Machine Learning Engineer** focused on building systems that turn **data into measurable business outcomes**.
+I build **end-to-end data products** that improve **forecasting accuracy, operational efficiency, and decision-making**.
 
-- 🎯 I design **end-to-end data solutions** (data → model → insight → decision)
-- ☁️ Working with **cloud-based ML pipelines and scalable data systems**
-- 📊 Strong focus on **analytics, forecasting, and decision intelligence**
-- 🎓 Master’s in **Data Science (UNSW)**
-- 📍 Based in **Sydney, Australia**
+Over the past 3+ years, I’ve worked on:
+- 📦 **Spare parts demand forecasting for appliances**
+- 📉 Reducing stockouts and overstock through predictive models
+- 📊 Turning messy operational data into reliable forecasting pipelines
 
-💡 I’m particularly interested in bridging the gap between **technical models** and **real-world business value**.
+💡 My focus is not just models — it’s **deployable systems that drive measurable impact**.
+
+---
+
+## 📈 Key Strength: Forecasting & Demand Planning
+
+- Time series forecasting (classical + ML approaches)
+- Demand prediction under uncertainty
+- Inventory optimisation & supply chain analytics
+- Feature engineering for real-world noisy datasets
+
+⚙️ Experience working with:
+- Intermittent demand
+- Sparse & inconsistent datasets
+- Business-critical forecasting scenarios
+
+---
+
+## 🧠 Selected Impact (Representative Work)
+
+- Improved forecasting accuracy for spare parts demand  
+- Built models to anticipate **failure-driven demand patterns**  
+- Helped reduce manual planning effort through automation  
+- Designed workflows for **data → prediction → business action**
+
+> *Note: Some projects are simplified or recreated due to data confidentiality.*
 
 ---
 
@@ -48,8 +76,9 @@ I’m a **Data Scientist & Machine Learning Engineer** focused on building syste
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prophet-2C3E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ---
@@ -57,8 +86,8 @@ I’m a **Data Scientist & Machine Learning Engineer** focused on building syste
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdoDameen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoDameen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdoDameen&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoDameen&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -67,23 +96,21 @@ I’m a **Data Scientist & Machine Learning Engineer** focused on building syste
 
 ### 🇦🇺 Australian Machine Learning Datasets
 
-A curated repository of **real-world Australian datasets** prepared for:
-- Forecasting
-- Machine Learning models
-- Geospatial analysis
-
-📦 Cleaned, structured, and ready for production-style workflows.
+A curated collection of **production-ready Australian datasets** for:
+- Forecasting  
+- Machine learning  
+- Analytics & experimentation  
 
 🔗 https://github.com/AbdoDameen/australian-ml-datasets
 
 ---
 
-## 🧠 What I’m Building
+## 🔬 What I’m Building Now
 
-- 📈 Forecasting models for business and operations
-- 🤖 Machine learning pipelines (training → deployment)
-- 📊 Interactive dashboards & analytics layers
-- 🇦🇺 Localised Australian data products
+- 📦 Demand forecasting systems for real-world use cases  
+- 🤖 ML pipelines from training to deployment  
+- 📊 Decision-focused dashboards  
+- 🇦🇺 Localised data products for the Australian market  
 
 ---
 
@@ -91,11 +118,11 @@ A curated repository of **real-world Australian datasets** prepared for:
 
 - English  
 - Arabic  
-- German (basic)
+- German (basic)  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://dameenanalytics.com/">
@@ -109,5 +136,5 @@ A curated repository of **real-world Australian datasets** prepared for:
 ---
 
 <p align="center">
-  <i>"Turning data into decisions, and models into measurable impact."</i>
+  <i>"Good models predict. Great systems change decisions."</i>
 </p>
