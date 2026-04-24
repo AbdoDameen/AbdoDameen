@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abdo</h1>
+<h1 align="center">Hi 👋, I'm Abdelrhman Dameen</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Scientist;Cloud+%26+Machine+Learning+Engineer;Turning+Data+into+Actionable+Insights;Based+in+Sydney%2C+Australia"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+ML+Engineer;Building+Real-World+Data+Solutions;From+Raw+Data+to+Business+Impact;Sydney%2C+Australia" />
 </p>
 
 <p align="center">
+  <a href="https://dameenanalytics.com/">
+    <img src="https://img.shields.io/badge/🌐%20Website-Dameen%20Analytics-0A66C2?style=for-the-badge" />
+  </a>
   <a href="https://github.com/AbdoDameen">
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -28,12 +26,15 @@
 
 ## 🚀 About Me
 
-- 🎯 Data Scientist focused on **machine learning, analytics, and business impact**
-- ☁️ Interested in **cloud-native data systems**, **ML engineering**, and **data governance**
+I’m a **Data Scientist & Machine Learning Engineer** focused on building systems that turn **data into measurable business outcomes**.
+
+- 🎯 I design **end-to-end data solutions** (data → model → insight → decision)
+- ☁️ Working with **cloud-based ML pipelines and scalable data systems**
+- 📊 Strong focus on **analytics, forecasting, and decision intelligence**
+- 🎓 Master’s in **Data Science (UNSW)**
 - 📍 Based in **Sydney, Australia**
-- 🎓 Master’s in **Data Science** at **UNSW**
-- 🧠 I enjoy transforming messy data into **clear, actionable insights**
-- 🌱 Currently building projects in **Python, SQL, forecasting, dashboards, and ML pipelines**
+
+💡 I’m particularly interested in bridging the gap between **technical models** and **real-world business value**.
 
 ---
 
@@ -53,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdoDameen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -62,59 +63,51 @@
 
 ---
 
-## 📌 Featured Repository
+## 📌 Featured Project
 
 ### 🇦🇺 Australian Machine Learning Datasets
-A curated collection of Australian datasets cleaned and structured for machine learning applications, including forecasting, clustering, and geospatial analysis.
 
-🔗 **Repo:** [github.com/AbdoDameen/australian-ml-datasets](https://github.com/AbdoDameen/australian-ml-datasets)
+A curated repository of **real-world Australian datasets** prepared for:
+- Forecasting
+- Machine Learning models
+- Geospatial analysis
+
+📦 Cleaned, structured, and ready for production-style workflows.
+
+🔗 https://github.com/AbdoDameen/australian-ml-datasets
 
 ---
 
-## 🧪 Interests
+## 🧠 What I’m Building
 
-- Machine Learning
-- Predictive Analytics
-- Time Series Forecasting
-- Cloud & Data Strategy
-- Data Governance
-- Visualization & Storytelling
+- 📈 Forecasting models for business and operations
+- 🤖 Machine learning pipelines (training → deployment)
+- 📊 Interactive dashboards & analytics layers
+- 🇦🇺 Localised Australian data products
 
 ---
 
 ## 🌍 Languages
 
-- English
-- Arabic
+- English  
+- Arabic  
 - German (basic)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
 <p align="center">
+  <a href="https://dameenanalytics.com/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-Dameen%20Analytics-0A66C2?style=for-the-badge" />
+  </a>
   <a href="https://www.linkedin.com/in/abdelrhman-dameen/">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Turning data into decisions, and models into measurable impact.”</i>
-</p>## Hi there 👋
-
-<!--
-**AbdoDameen/AbdoDameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <i>"Turning data into decisions, and models into measurable impact."</i>
+</p>
