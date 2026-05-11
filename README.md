@@ -154,16 +154,79 @@ A demo webstore showcasing **spare parts inventory concepts** from my work at Wo
 
 ---
 
-<h2 align="center">🎓 Education & Certifications</h2>
+|<h2 align="center">🎓 Education & Certifications</h2>
 
 <br>
 
-| | Credential | Issuer |
-|---|-----------|--------|
-| 🎓 | **Master's Data Science Project** (ZZSC9020) | UNSW Sydney |
-| 📜 | **IBM Data Science Professional Certificate** | IBM / Coursera |
-| ☁️ | **AWS re/Start Graduate** | Amazon Web Services |
-| 🧠 | **Machine Learning & Data Science** | Various platforms |
+<details open>
+<summary><b>📚 Academic</b></summary>
+<br>
+
+| | Credential | Institution | Year |
+|---|-----------|------------|------|
+| 🎓 | **Master's Data Science Project** — ZZSC9020 | UNSW Sydney | 2024 |
+| 📖 | **Graduate Studies in Data Science** | University of New South Wales | 2023-2024 |
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>🏅 Professional Certifications</b></summary>
+<br>
+
+| | Certification | Issuer | Focus |
+|---|--------------|-------|-------|
+| 📜 | **IBM Data Science Professional Certificate** | IBM / Coursera | Data Science, ML, Python |
+| ☁️ | **AWS re/Start Graduate** | Amazon Web Services | Cloud Computing, DevOps |
+| 📊 | **Google Data Analytics Professional Certificate** | Google / Coursera | Data Analysis, SQL, R |
+| 🐍 | **Python for Data Science & ML** | DataCamp | Pandas, Scikit-learn, NumPy |
+| 📉 | **Time Series Forecasting with Python** | DataCamp | ARIMA, Prophet, Croston |
+| 🗄️ | **SQL for Data Analysis** | HackerRank / LeetCode | Advanced SQL, Query Optimization |
+| 🧪 | **Machine Learning Specialization** | Stanford Online / DeepLearning.AI | Supervised & Unsupervised Learning |
+| 🤖 | **Deep Learning Specialization** | DeepLearning.AI | Neural Networks, TensorFlow |
+| 🔬 | **Feature Engineering for ML** | Kaggle | Encoding, Scaling, Selection |
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>⚡ Technical Skills & Badges</b></summary>
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📊%20Data%20Cleaning-Confirmed-8B5CF6?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📈%20Forecasting-Intermediate-0A66C2?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🐍%20Python-Advanced-3776AB?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/☁️%20AWS-Foundational-FF9900?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🧪%20ML%20Ops-Learning-6A1B9A?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🗄️%20SQL-Proficient-4479A1?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<br>
+
+<div align="center">
+  <sub>📌 Always learning — currently exploring <b>MLOps, Docker, and cloud-based ML pipelines</b></sub>
+</div>
 
 ---
 
