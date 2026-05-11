@@ -112,87 +112,7 @@ I turn **messy operational data into forecasting systems** that drive real busin
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br>
-
-<h3>🇦🇺 Australian ML Datasets</h3>
-
-<div align="center">
-  <a href="https://github.com/AbdoDameen/australian-ml-datasets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoDameen&repo=australian-ml-datasets&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-</div>
-
-A curated collection of **real-world Australian datasets**, cleaned and structured for machine learning. Most Australian public data is scattered across government portals in inconsistent formats — this repo does the grunt work so you can focus on building.
-
-**Covers**: Weather, mining tenements, housing approvals, aircraft register, car market, child mortality, and more. Each dataset comes with a reproducible cleaning pipeline, metadata, and ML-ready features.
-
-<br>
-
-<h3>⚖️ Open Australian Legal Corpus</h3>
-
-<div align="center">
-  <a href="https://github.com/AbdoDameen/open-australian-legal-corpus-creator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoDameen&repo=open-australian-legal-corpus-creator&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-</div>
-
-The **first and only multijurisdictional open corpus** of Australian legislative and judicial documents. Creates structured, searchable legal data from across Australian jurisdictions — a foundational resource for legal NLP and legal tech research.
-
-<br>
-
-<h3>🔧 WWA Spare Parts Demo Webstore</h3>
-
-<div align="center">
-  <a href="https://github.com/AbdoDameen/wwa-spare-parts-demo-webstore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoDameen&repo=wwa-spare-parts-demo-webstore&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-</div>
-
-A demo webstore showcasing **spare parts inventory concepts** from my work at Worldwide Appliance. Built to demonstrate the intersection of forecasting, inventory management, and web interface design.
-
----
-
-|<h2 align="center">🎓 Education & Certifications</h2>
-
-<br>
-
-<details open>
-<summary><b>📚 Academic</b></summary>
-<br>
-
-| | Credential | Institution | Year |
-|---|-----------|------------|------|
-| 🎓 | **Master's Data Science Project** — ZZSC9020 | UNSW Sydney | 2024 |
-| 📖 | **Graduate Studies in Data Science** | University of New South Wales | 2023-2024 |
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>🏅 Professional Certifications</b></summary>
-<br>
-
-| | Certification | Issuer | Focus |
-|---|--------------|-------|-------|
-| 📜 | **IBM Data Science Professional Certificate** | IBM / Coursera | Data Science, ML, Python |
-| ☁️ | **AWS re/Start Graduate** | Amazon Web Services | Cloud Computing, DevOps |
-| 📊 | **Google Data Analytics Professional Certificate** | Google / Coursera | Data Analysis, SQL, R |
-| 🐍 | **Python for Data Science & ML** | DataCamp | Pandas, Scikit-learn, NumPy |
-| 📉 | **Time Series Forecasting with Python** | DataCamp | ARIMA, Prophet, Croston |
-| 🗄️ | **SQL for Data Analysis** | HackerRank / LeetCode | Advanced SQL, Query Optimization |
-| 🧪 | **Machine Learning Specialization** | Stanford Online / DeepLearning.AI | Supervised & Unsupervised Learning |
-| 🤖 | **Deep Learning Specialization** | DeepLearning.AI | Neural Networks, TensorFlow |
-| 🔬 | **Feature Engineering for ML** | Kaggle | Encoding, Scaling, Selection |
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>⚡ Technical Skills & Badges</b></summary>
+<h2 align="center">⚡ Technical Skills & Badges</h2>
 <br>
 
 <table>
@@ -220,13 +140,7 @@ A demo webstore showcasing **spare parts inventory concepts** from my work at Wo
   </tr>
 </table>
 
-</details>
-
 <br>
-
-<div align="center">
-  <sub>📌 Always learning — currently exploring <b>MLOps, Docker, and cloud-based ML pipelines</b></sub>
-</div>
 
 ---
 
@@ -322,28 +236,18 @@ A demo webstore showcasing **spare parts inventory concepts** from my work at Wo
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">🌐</td>
-      <td><a href="https://dameenanalytics.com/">dameenanalytics.com</a></td>
-      <td>Portfolio & data stories</td>
-    </tr>
-    <tr>
-      <td align="center">💼</td>
-      <td><a href="https://www.linkedin.com/in/abdelrhman-dameen/">linkedin.com/in/abdelrhman-dameen</a></td>
-      <td>Professional network</td>
-    </tr>
-    <tr>
-      <td align="center">🐦</td>
-      <td><a href="https://twitter.com/AbdoDameen">@AbdoDameen</a></td>
-      <td>Thoughts & updates</td>
-    </tr>
-    <tr>
-      <td align="center">💻</td>
-      <td><a href="https://github.com/AbdoDameen">github.com/AbdoDameen</a></td>
-      <td>Code & projects</td>
-    </tr>
-  </table>
+  <a href="https://dameenanalytics.com/">
+    <img src="https://img.shields.io/badge/🌐%20Website-8B5CF6?style=for-the-badge&logo=internetarchive&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdelrhman-dameen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/AbdoDameen">
+    <img src="https://img.shields.io/badge/@AbdoDameen-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbdoDameen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br>
