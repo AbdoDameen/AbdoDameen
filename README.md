@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1E1B4B&height=200&section=header&text=Abdelrhman%20Dameen&fontSize=50&fontColor=fff&animation=fadeIn&desc=Data%20Scientist%20%E2%80%A2%20Sydney%20%E2%80%A2%20Forecasting%20Specialist&descSize=16">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1E1B4B&height=200&section=header&text=Abdelrhman%20Dameen&fontSize=50&fontColor=fff&animation=fadeIn&desc=Data%20Scientist%20%E2%80%A2%20Sydney%20%E2%80%A2%20Forecasting%20Specialist&descSize=16" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1E1B4B&height=200&section=header&text=Abdelrhman%20Dameen&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%26%20Agents%20%E2%80%A2%20Fine%20Tuning%20%E2%80%A2%20Sydney&descSize=16">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1E1B4B&height=200&section=header&text=Abdelrhman%20Dameen&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%26%20Agents%20%E2%80%A2%20Fine%20Tuning%20%E2%80%A2%20Sydney&descSize=16" />
   </picture>
 </div>
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <samp>
-    <b>Data Scientist</b> @ <b>Worldwide Appliance</b> &nbsp;·&nbsp; 🧠 Forecasting & ML &nbsp;·&nbsp; 🇦🇺 Australian Open Data
+    <b>AI Engineer</b> @ <b>Worldwide Appliance</b> &nbsp;·&nbsp; 🧠 RAG & Agents &nbsp;·&nbsp; 🎯 Fine-tuning &nbsp;·&nbsp; 🇦🇺 Sydney
   </samp>
 </p>
 
@@ -40,75 +40,135 @@
 
 I turn **messy operational data into forecasting systems** that drive real business decisions. My work centres on solving one of the hardest problems in supply chain analytics — **intermittent demand forecasting** for the appliance spare parts industry at **Worldwide Appliance**.
 
-- 🔬 **Specialise in**: Sparse, failure-driven demand patterns that break traditional models
-- 🏢 **Industry focus**: Supply chain, spare parts, inventory planning
+- 🔬 **Specialise in**: AI engineering, RAG systems, agent orchestration, fine-tuning LLMs for business
+- 🏢 **Industry focus**: Supply chain, spare parts, inventory planning, business AI
 - 📍 **Based in**: Sydney, Australia
-- 🎓 **Background**: Master's-level data science (UNSW), IBM Data Science certified, AWS re/Start graduate
+- 🎓 **Background**: Master's-level data science (UNSW), AWS Solutions Architect, AWS ML Associate, Azure AI Engineer, CompTIA Security+/Cloud+, ISACA CRISC
 - 🗓️ **On GitHub since**: December 2020 · 27 public repos
 
-<br>
+I build **AI systems that solve real business problems** — from RAG pipelines and agentic workflows to fine-tuned models and forecasting systems. My work spans the full stack: ingesting messy operational data, building vector search, orchestrating AI agents, and fine-tuning models for domain-specific business needs.
 
 | | |
 |---|---|
-| 🧠 **Forecasting** | ARIMA, Prophet, Croston, ML-based methods for intermittent demand |
-| ⚙️ **ML Engineering** | Feature engineering, regression/classification, model evaluation |
-| 📊 **Data Ops** | Cleaning pipelines, ETL, SQL, Power BI dashboards |
-| 🇦🇺 **Open Data** | Curating Australian public datasets into structured ML-ready resources |
-| ☁️ **Cloud** | AWS re/Start trained · Cloud-based ML pipeline development |
+| 🧠 **AI Engineering** | RAG pipelines, vector databases, AI agent orchestration, LLM fine-tuning |
+| 🎯 **Fine-tuning** | Domain-specific model adaptation for business applications |
+| 🔗 **RAG & Agents** | Retrieval-augmented generation, multi-agent workflows, tool integration |
+| 📊 **Forecasting** | ARIMA, Prophet, Croston, ML-based methods for intermittent demand |
+| ☁️ **Cloud AI** | AWS (Solutions Architect + ML certified), Azure AI Engineering |
 
 <br>
 <br>
 
 ---
 
-<h2 align="center">💼 Professional Experience</h2>
+### 💼 Professional Experience
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Worldwide%20Appliance-111827?style=for-the-badge" />
   &nbsp;→&nbsp;
-  <em>Data Scientist</em>
+  <em>AI Engineer / Data Scientist</em>
 </h3>
 
 <br>
 
 <table>
   <tr>
-    <td width="200" align="center"><b>🎯 The Problem</b></td>
+    <td width="200" align="center"><b>🎯 Focus</b></td>
     <td>
-      Appliance spare parts demand is <b>intermittent, sparse, and failure-driven</b> — 
-      a single part can sit at zero demand for months, then spike unpredictably. Standard 
-      forecasting models (ARIMA, Prophet) fail catastrophically on this pattern.
+      <b>AI Engineering & Forecasting</b> — Building RAG pipelines, agentic workflows, fine-tuned 
+      LLMs, and forecasting systems for supply chain and business operations.
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🧩 My Approach</b></td>
+    <td align="center"><b>🧠 AI Systems</b></td>
     <td>
-      Built <b>hybrid forecasting systems</b> combining statistical methods (Croston, 
-      Syntetos-Boylan) with ML models tuned for long-tail SKU behaviour. Created 
-      automated data cleaning pipelines to handle incomplete, inconsistent source data.
+      Designed RAG pipelines with vector databases, built multi-agent orchestration systems, 
+      and fine-tuned models for domain-specific business applications.
     </td>
   </tr>
   <tr>
-    <td align="center"><b>📈 Impact</b></td>
+    <td align="center"><b>📈 Forecasting</b></td>
     <td>
-      Reduced stock-outs, optimised procurement decisions, and built forecasting 
-      workflows that integrate directly into business operations — not just accurate 
-      predictions, but <b>usable decisions</b>.
+      Built hybrid forecasting systems combining statistical methods (Croston, 
+      Syntetos-Boylan) with ML models for intermittent, failure-driven spare parts demand. 
+      Automated data cleaning pipelines for incomplete source data.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎯 Impact</b></td>
+    <td>
+      Reduced stock-outs, optimised procurement decisions, and built AI workflows 
+      that integrate directly into business operations.
     </td>
   </tr>
   <tr>
     <td align="center"><b>🔧 Tech</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chroma-4A90D9?style=flat-square" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Statsmodels-111827?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
     </td>
   </tr>
 </table>
 
 > ⚠️ Some implementations are simplified/recreated for public sharing due to data confidentiality.
+
+---
+
+<h2 align="center">🎓 Certifications</h2>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">☁️</td>
+      <td><b>AWS Solutions Architect</b></td>
+      <td>Amazon Web Services</td>
+    </tr>
+    <tr>
+      <td align="center">🤖</td>
+      <td><b>AWS Machine Learning Associate</b></td>
+      <td>Amazon Web Services</td>
+    </tr>
+    <tr>
+      <td align="center">🔷</td>
+      <td><b>Azure AI Engineering</b></td>
+      <td>Microsoft</td>
+    </tr>
+    <tr>
+      <td align="center">🔒</td>
+      <td><b>CompTIA Security+</b></td>
+      <td>CompTIA</td>
+    </tr>
+    <tr>
+      <td align="center">☁️</td>
+      <td><b>CompTIA Cloud+</b></td>
+      <td>CompTIA</td>
+    </tr>
+    <tr>
+      <td align="center">📋</td>
+      <td><b>ISACA CRISC</b> — Certified in Risk and Information Systems Control</td>
+      <td>ISACA</td>
+    </tr>
+    <tr>
+      <td align="center">📜</td>
+      <td><b>IBM Data Science Professional Certificate</b></td>
+      <td>IBM / Coursera</td>
+    </tr>
+    <tr>
+      <td align="center">🎓</td>
+      <td><b>Master's Data Science Project</b> (ZZSC9020)</td>
+      <td>UNSW Sydney</td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 ---
 
@@ -150,13 +210,21 @@ I turn **messy operational data into forecasting systems** that drive real busin
 
 <div align="center">
 
-**🧰 Languages**
+**🧰 Languages & Frameworks**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+**🤖 AI Engineering**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Chroma-4A90D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
 **📊 Data Science & ML**
 
@@ -170,6 +238,7 @@ I turn **messy operational data into forecasting systems** that drive real busin
 **☁️ Cloud & Tools**
 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -211,20 +280,20 @@ I turn **messy operational data into forecasting systems** that drive real busin
 <div align="center">
   <table>
     <tr>
-      <td align="center">📦</td>
-      <td><b>Production forecasting pipelines</b> — building clean, reusable forecasting systems</td>
+      <td align="center">🧠</td>
+      <td><b>RAG & Agent Systems</b> — building production RAG pipelines and multi-agent orchestration</td>
     </tr>
     <tr>
-      <td align="center">🗺️</td>
-      <td><b>Australian ML Datasets</b> — expanding with new domains (health, demographics, energy)</td>
+      <td align="center">🎯</td>
+      <td><b>LLM Fine-tuning</b> — domain-specific model adaptation for business workflows</td>
+    </tr>
+    <tr>
+      <td align="center">📦</td>
+      <td><b>Production forecasting pipelines</b> — clean, reusable forecasting systems</td>
     </tr>
     <tr>
       <td align="center">☁️</td>
-      <td><b>AWS ML pipelines</b> — moving forecasting workflows to cloud infrastructure</td>
-    </tr>
-    <tr>
-      <td align="center">⚖️</td>
-      <td><b>Australian Legal Corpus</b> — maintaining and improving the open legal corpus</td>
+      <td><b>Cloud AI</b> — AWS + Azure AI/ML solution architecture</td>
     </tr>
   </table>
 </div>
