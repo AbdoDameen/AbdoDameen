@@ -268,7 +268,27 @@ I build **AI systems that solve real business problems** — from RAG pipelines 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdoDameen&theme=tokyonight&no-frame=true&row=2&column=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdoDameen&theme=tokyonight&hide_border=true&bg_color=00000000&area=true&area_color=8B5CF6&point=8B5CF6&line=8B5CF6&color=8B5CF6" width="95%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdoDameen&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+  <p>
+    <img src="https://img.shields.io/badge/⭐%20Starstruck-FFD700?style=flat-square&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-00ADD8?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/👫%20Pair%20Extraordinaire-8B5CF6?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎯%20Quickdraw-43A047?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔥%20YOLO-E53935?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🤝%20Contributor-FF6F00?style=flat-square&logo=github&logoColor=white" />
+  </p>
 </div>
 
 ---
