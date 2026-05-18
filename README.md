@@ -40,11 +40,11 @@
 
 I turn **messy operational data into forecasting systems** that drive real business decisions. My work centres on solving one of the hardest problems in supply chain analytics — **intermittent demand forecasting** for the appliance spare parts industry at **Worldwide Appliance**.
 
-- 🔬 **Specialise in**: AI engineering, RAG systems, agent orchestration, fine-tuning LLMs for business
+- 🔬 **Specialise in**: DAata Science, AI engineering, RAG systems, agent orchestration, fine-tuning LLMs for business
 - 🏢 **Industry focus**: Supply chain, spare parts, inventory planning, business AI
 - 📍 **Based in**: Sydney, Australia
 - 🎓 **Background**: Master's-level data science (UNSW), AWS Solutions Architect, AWS ML Associate, Azure AI Engineer, CompTIA Security+/Cloud+, ISACA CRISC
-- 🗓️ **On GitHub since**: December 2020 · 27 public repos
+- 🗓️ **On GitHub since**: December 2020 
 
 I build **AI systems that solve real business problems** — from RAG pipelines and agentic workflows to fine-tuned models and forecasting systems. My work spans the full stack: ingesting messy operational data, building vector search, orchestrating AI agents, and fine-tuning models for domain-specific business needs.
 
