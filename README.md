@@ -98,8 +98,8 @@ I build AI systems that solve real operational problems — from forecasting spa
 | 🔒 | **CompTIA Security+** | CompTIA | [<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/linkedin_thumb_blob" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/bcd0f4ab-8c25-442b-8986-9b035ee2a939) |
 | ☁️ | **CompTIA Cloud+** | CompTIA | [<img src="https://images.credly.com/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/linkedin_thumb_blob" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/59a855c1-abbc-4652-854d-5492d6dd9054) |
 | 🛡️ | **CompTIA Secure Cloud Professional (CSCP)** | CompTIA | [<img src="https://images.credly.com/images/9f54bf46-dc18-408c-a74e-2637facd1856/linkedin_thumb_CompTIA_CSCP.png" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/77881ccf-5fb8-4642-ae8b-2fec55d2f137) |
-| 📋 | **ISACA CRISC** | ISACA | |
-| 📜 | **IBM Data Science Professional Certificate** | IBM / Coursera | |
+| 📋 | **ISACA CRISC** | ISACA | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TCp6UM1plEmV_U9l4a1aoxVTNf6cEahD_A&s" width="60" alt="CRISC badge"/>](https://www.isaca.org/credentialing/crisc) |
+| 📜 | **IBM Data Science Professional Certificate** | IBM / Coursera | [<img src="https://images.credly.com/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png" width="60" alt="IBM badge"/>](https://www.credly.com/users/abdelrhman-dameen) |
 
 > All verifiable on [Credly](https://www.credly.com/users/abdelrhman-dameen)
 
