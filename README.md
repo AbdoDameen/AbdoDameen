@@ -90,14 +90,14 @@ I build AI systems that solve real operational problems — from forecasting spa
 
 ## 🎓 Certifications
 
-| | Credential | Issuer | Verify |
-|---|-----------|--------|--------|
-| ☁️ | **AWS Solutions Architect – Associate** | Amazon Web Services | [Verify](https://www.credly.com/earner/earned/badge/33767833-ffc4-4dff-892a-212e9e69ac25) |
-| 🤖 | **AWS Machine Learning Engineer – Associate** | Amazon Web Services | [Verify](https://www.credly.com/earner/earned/badge/3b37aa41-a209-4e85-9720-b26220a2c729) |
+| | Credential | Issuer | Badge |
+|---|-----------|--------|-------|
+| ☁️ | **AWS Solutions Architect – Associate** | Amazon Web Services | [<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/33767833-ffc4-4dff-892a-212e9e69ac25) |
+| 🤖 | **AWS Machine Learning Engineer – Associate** | Amazon Web Services | [<img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/linkedin_thumb_image.png" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/3b37aa41-a209-4e85-9720-b26220a2c729) |
 | 🔷 | **Azure AI Engineering** | Microsoft | |
-| 🔒 | **CompTIA Security+** | CompTIA | [Verify](https://www.credly.com/earner/earned/badge/bcd0f4ab-8c25-442b-8986-9b035ee2a939) |
-| ☁️ | **CompTIA Cloud+** | CompTIA | [Verify](https://www.credly.com/earner/earned/badge/59a855c1-abbc-4652-854d-5492d6dd9054) |
-| 🛡️ | **CompTIA Secure Cloud Professional (CSCP)** | CompTIA | [Verify](https://www.credly.com/earner/earned/badge/77881ccf-5fb8-4642-ae8b-2fec55d2f137) |
+| 🔒 | **CompTIA Security+** | CompTIA | [<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/linkedin_thumb_blob" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/bcd0f4ab-8c25-442b-8986-9b035ee2a939) |
+| ☁️ | **CompTIA Cloud+** | CompTIA | [<img src="https://images.credly.com/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/linkedin_thumb_blob" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/59a855c1-abbc-4652-854d-5492d6dd9054) |
+| 🛡️ | **CompTIA Secure Cloud Professional (CSCP)** | CompTIA | [<img src="https://images.credly.com/images/9f54bf46-dc18-408c-a74e-2637facd1856/linkedin_thumb_CompTIA_CSCP.png" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/77881ccf-5fb8-4642-ae8b-2fec55d2f137) |
 | 📋 | **ISACA CRISC** | ISACA | |
 | 📜 | **IBM Data Science Professional Certificate** | IBM / Coursera | |
 
