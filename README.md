@@ -90,15 +90,18 @@ I build AI systems that solve real operational problems — from forecasting spa
 
 ## 🎓 Certifications
 
-| | Credential | Issuer |
-|---|-----------|--------|
-| ☁️ | **AWS Solutions Architect** | Amazon Web Services |
-| 🤖 | **AWS Machine Learning Associate** | Amazon Web Services |
-| 🔷 | **Azure AI Engineering** | Microsoft |
-| 🔒 | **CompTIA Security+** | CompTIA |
-| ☁️ | **CompTIA Cloud+** | CompTIA |
-| 📋 | **ISACA CRISC** | ISACA |
-| 📜 | **IBM Data Science Professional Certificate** | IBM / Coursera |
+| | Credential | Issuer | Verify |
+|---|-----------|--------|--------|
+| ☁️ | **AWS Solutions Architect – Associate** | Amazon Web Services | [Verify](https://www.credly.com/earner/earned/badge/33767833-ffc4-4dff-892a-212e9e69ac25) |
+| 🤖 | **AWS Machine Learning Engineer – Associate** | Amazon Web Services | [Verify](https://www.credly.com/earner/earned/badge/3b37aa41-a209-4e85-9720-b26220a2c729) |
+| 🔷 | **Azure AI Engineering** | Microsoft | |
+| 🔒 | **CompTIA Security+** | CompTIA | [Verify](https://www.credly.com/earner/earned/badge/bcd0f4ab-8c25-442b-8986-9b035ee2a939) |
+| ☁️ | **CompTIA Cloud+** | CompTIA | [Verify](https://www.credly.com/earner/earned/badge/59a855c1-abbc-4652-854d-5492d6dd9054) |
+| 🛡️ | **CompTIA Secure Cloud Professional (CSCP)** | CompTIA | [Verify](https://www.credly.com/earner/earned/badge/77881ccf-5fb8-4642-ae8b-2fec55d2f137) |
+| 📋 | **ISACA CRISC** | ISACA | |
+| 📜 | **IBM Data Science Professional Certificate** | IBM / Coursera | |
+
+> All verifiable on [Credly](https://www.credly.com/users/abdelrhman-dameen)
 
 ---
 
