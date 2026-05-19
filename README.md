@@ -18,7 +18,7 @@
   </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=AbdoDameen&style=for-the-badge&color=8B5CF6" />
-  <img src="https://img.shields.io/github/followers/AbdoDameen?style=for-the-badge&color=1E1B4B&logo=github" />
+  
 </div>
 
 ---
