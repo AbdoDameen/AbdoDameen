@@ -25,33 +25,11 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AbdelrhmanDameen:
-    role = "AI Engineer / Data Scientist"
-    location = "Sydney, Australia"
-
-    interests = [
-        "RAG Systems",
-        "AI Agents",
-        "Reinforcement Learning",
-        "LLM Fine-tuning",
-        "Forecasting",
-        "Agent Harnesses",
-        "Supply Chain AI",
-    ]
-
-    focus = [
-        "Production AI systems",
-        "Multi-agent orchestration",
-        "Intermittent demand forecasting",
-        "Vector search + retrieval pipelines",
-        "Business AI automation",
-    ]
-```
+**AI Engineer / Data Scientist** based in Sydney, Australia.
 
 I build AI systems that solve real operational problems — from forecasting spare-parts demand to designing production-ready RAG pipelines and agent orchestration frameworks.
 
-Currently focused on:
+**Currently focused on:**
 - 🧠 **Reinforcement Learning (RL)**
 - 🤖 **Multi-Agent Systems**
 - 🔎 **RAG + Vector Retrieval**
