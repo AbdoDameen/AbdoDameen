@@ -16,38 +16,35 @@
   <a href="https://twitter.com/AbdoDameen">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <br><br>
-  
-  
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-**AI Engineer / Data Scientist** based in Sydney, Australia.
+**AI Engineer / Data Scientist**, Sydney, Australia.
 
-I build AI systems that solve real operational problems — from forecasting spare-parts demand to designing production-ready RAG pipelines and agent orchestration frameworks.
+I build AI systems for people who have to decide something on Monday morning.
 
-**Currently focused on:**
-- 🧠 **Reinforcement Learning (RL)**
-- 🤖 **Multi-Agent Systems**
-- 🔎 **RAG + Vector Retrieval**
-- 🛠️ **Agent Harnesses & Evaluation Frameworks**
-- 📈 **Forecasting for supply-chain operations**
-- ☁️ **AI infrastructure on AWS & Azure**
+Most of that work sits in supply chain. At **Worldwide Appliance** I forecast spare-parts demand of the hard kind: intermittent, failure-driven, a part that sells twice a year and still has to be on the shelf when it does. Croston and Syntetos-Boylan for the baseline, ML models where they earn their place, and cleaning pipelines, because the source data never arrives complete.
+
+The same instinct runs through the rest of it. Retrieval that answers from messy operational documents instead of a tidy demo corpus. Agent workflows I can evaluate rather than hope about. Models fine-tuned on a domain until they know it.
+
+Currently: reinforcement learning, multi-agent orchestration, retrieval and evaluation frameworks, and the AWS and Azure infrastructure underneath all of it.
+
+The best of it is pinned below.
 
 ---
 
 ## ⚡ Core Expertise
 
-| Area | Technologies |
-|------|------------|
-| **AI Engineering** | LangChain, Ollama, HuggingFace, RAG pipelines |
-| **Agents & Orchestration** | Multi-agent systems, tool calling, workflows |
-| **Forecasting** | Croston, Prophet, ARIMA, ML forecasting |
-| **Data Science** | Python, Pandas, Scikit-Learn, SQL |
-| **Cloud & Infra** | AWS, Azure, Docker, Linux |
+| | What I do | With |
+|---|---|---|
+| 📈 | **Intermittent demand forecasting** | Croston, Syntetos-Boylan, Prophet, ARIMA |
+| 🔎 | **RAG and retrieval** | LangChain, Chroma, Ollama, HuggingFace |
+| 🤖 | **Agents and orchestration** | tool calling, multi-agent workflows, evaluation harnesses |
+| 📊 | **Data science** | Python, Pandas, Scikit-Learn, SQL |
+| ☁️ | **Cloud and infrastructure** | AWS, Azure, Docker, Linux |
 
 ---
 
@@ -98,27 +95,15 @@ I build AI systems that solve real operational problems — from forecasting spa
 | 🔒 | **CompTIA Security+** | CompTIA | [<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/linkedin_thumb_blob" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/bcd0f4ab-8c25-442b-8986-9b035ee2a939) |
 | ☁️ | **CompTIA Cloud+** | CompTIA | [<img src="https://images.credly.com/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/linkedin_thumb_blob" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/59a855c1-abbc-4652-854d-5492d6dd9054) |
 | 🛡️ | **CompTIA Secure Cloud Professional (CSCP)** | CompTIA | [<img src="https://images.credly.com/images/9f54bf46-dc18-408c-a74e-2637facd1856/linkedin_thumb_CompTIA_CSCP.png" width="60" alt="Credly badge"/>](https://www.credly.com/earner/earned/badge/77881ccf-5fb8-4642-ae8b-2fec55d2f137) |
-| 📋 | **CRISC - Certified in Risk and Information Systems Control** | ISACA | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TCp6UM1plEmV_U9l4a1aoxVTNf6cEahD_A&s" width="60" alt="CRISC badge"/>](https://www.isaca.org/credentialing/crisc) |
+| 📋 | **CRISC** (Certified in Risk and Information Systems Control) | ISACA | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TCp6UM1plEmV_U9l4a1aoxVTNf6cEahD_A&s" width="60" alt="CRISC badge"/>](https://www.isaca.org/credentialing/crisc) |
 | 📜 | **IBM Data Science Professional Certificate** | IBM / Coursera | [<img src="https://images.credly.com/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png" width="60" alt="IBM badge"/>](https://www.credly.com/users/abdelrhman-dameen) |
 
-> All verifiable on [Credly](https://www.credly.com/users/abdelrhman-dameen)
+> Every badge links to its verification record.
 
 ---
 
-## 📬 Connect
-
 <div align="center">
-  <a href="https://dameenanalytics.com/">
-    <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdelrhman-dameen/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AbdoDameen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <br><br>
-  <sub><i>"Forecasting is not about predicting the future — it's about reducing uncertainty enough to act."</i></sub>
+  <sub><i>"Forecasting is not about predicting the future. It's about reducing uncertainty enough to act."</i></sub>
   <br><br>
   <sub>
     <img src="https://img.shields.io/badge/📅%20Last%20updated-2026-8B5CF6?style=flat-square" />
